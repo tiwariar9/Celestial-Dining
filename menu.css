@@ -1,0 +1,42 @@
+body, h1, h2, h3, ul, li {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #482c04;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 18px;
+}
+
+.menu{
+    padding-left: 100px;
+    align-items: center;
+    align-content: center;
+    background-color: bisque;
+}
+
+footer {
+    background-color: #482c04;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
