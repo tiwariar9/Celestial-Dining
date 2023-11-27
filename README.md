@@ -3,7 +3,6 @@
 ### A Gastronomic Odyssey
 
 **About Us**
-
 Welcome to Celestial Dining, a culinary haven where artistry meets enchantment. Our exquisite menu, ethereal ambiance, and impeccable service will transport you to a realm of celestial delight.
 
 **The Ambiance**
